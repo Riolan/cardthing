@@ -128,4 +128,3 @@ client.on("message", async (msg) => {
 
 */
  //client secret
- client.login('NDM1NTYyODY3ODQ0OTcyNTQ0.DbaxYg.sU2zWNuQ-NKQxoOP-TggF79x3yg')
